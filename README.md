@@ -5,8 +5,8 @@ Hi, I’m Fauzan 👋
 - 📖 My free time (if any, that is) is spent in literature, catching up with the news and learning languages. I also like exploring history, culture and economics.
 - 📫 Please feel free to reach out to me for anything, be it open-ended discussions, feedback or colloborations!
 
-      [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fauzanfarooqui7@gmail.com)     
-      [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fauzan-farooqui/)
+     [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fauzanfarooqui7@gmail.com)  &nbsp;
+     [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fauzan-farooqui/)
        
 
 <!---
