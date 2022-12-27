@@ -4,15 +4,10 @@ Hi, I’m Fauzan 👋
 - 📝 Currently, I am working on Open Information Extraction.
 - 📖 My free time (if any, that is) is spent in literature, catching up with the news and learning languages. I also like exploring history, culture and economics.
 - 📫 Please feel free to reach out to me for anything, be it open-ended discussions, feedback or colloborations!
-       [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fauzanfarooqui7@gmail.com)
-       [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fauzan-farooqui/)
+
+    [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fauzanfarooqui7@gmail.com)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fauzan-farooqui/)
        
-<br>
-
-[![ github stats](https://github-readme-stats.vercel.app/api?username=fauzanfarooqui&show_icons=true&theme=radical)](https://github.com/fauzanfarooqui/github-readme-stats)
-
-
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanfarooqui&layout=compact&theme=dark)
 
 <!---
 FauzanFarooqui/FauzanFarooqui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
