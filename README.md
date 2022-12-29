@@ -1,5 +1,5 @@
 Hi, I’m Fauzan 👋
-- 🎓 I’m a senior undergrad studying Computer Science and Engineering (CSE) at Visvesvaraya National Instite of Technology (VNIT), Nagpur, India. 
+- 🎓 I’m a senior undergrad studying Computer Science and Engineering (CSE) at Visvesvaraya National Institute of Technology (VNIT), Nagpur, India. 
 - 🌱 I am a member at VNIT's AI & Robotics Lab, [IvLabs](https://www.ivlabs.in/), where I work on the research-side of **Natural Language Processing and Deep Learning**.
 - 📝 Currently, I am working on Open Information Extraction. I had been exploring machine translation (especially for low-resource languages) earlier. (My interest is also picqued by optimization of neural models (for example, on the compiler level) for efficient deployment.)
 - 📖 My free time (if I get any, that is) is spent in literature, catching up with the news and learning languages. I also like exploring history and culture.
