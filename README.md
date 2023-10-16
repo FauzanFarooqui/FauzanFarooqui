@@ -2,7 +2,7 @@ Hi, I’m Fauzan 👋
 - 🖥️ I am a Research Engineer working on 5G systems at India's Telecom R&D organization.
 - 🎓 I studied Computer Science and Engineering (CSE) at Visvesvaraya National Institute of Technology (VNIT), Nagpur, India. 
 - 🌱 During my time at VNIT, I was part of the AI & Robotics Lab, [IvLabs](https://www.ivlabs.in/), where I conducted research on **Natural Language Processing and Deep Learning**.
-- 📝 I have worked on Open Information Extraction and Knowledge Graphs (publications under-review in both fields).
+- 📝 I have worked on Open Information Extraction and Knowledge Graphs ([publications](https://fauzanfarooqui.github.io/publications/) under-review in both fields).
 - 📖 My free time (if I get any, that is) is spent on literature, catching up with the news and learning languages. I also like exploring history and culture.
 - 📫 Please feel free to reach out to me for anything, be it open-ended discussions, feedback or colloborations!
 
