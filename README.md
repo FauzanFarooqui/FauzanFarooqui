@@ -1,8 +1,9 @@
 Hi, I’m Fauzan 👋
-- 🎓 I’m a senior undergrad studying Computer Science and Engineering (CSE) at Visvesvaraya National Institute of Technology (VNIT), Nagpur, India. 
-- 🌱 I am a member at VNIT's AI & Robotics Lab, [IvLabs](https://www.ivlabs.in/), where I work on the research-side of **Natural Language Processing and Deep Learning**.
-- 📝 Currently, I am working on Open Information Extraction. I had been exploring machine translation (especially for low-resource languages) earlier. (My interest is also picqued by optimization of neural models (for example, on the compiler level) for efficient deployment.)
-- 📖 My free time (if I get any, that is) is spent in literature, catching up with the news and learning languages. I also like exploring history and culture.
+- 🖥️ I am working on 5G systems at a Telecom R&D organization.
+- 🎓 I studied Computer Science and Engineering (CSE) at Visvesvaraya National Institute of Technology (VNIT), Nagpur, India. 
+- 🌱 During my time at VNIT, I was part of the AI & Robotics Lab, [IvLabs](https://www.ivlabs.in/), where I conducted research on **Natural Language Processing and Deep Learning**.
+- 📝 I have worked on Open Information Extraction and Knowledge Graphs (publications under-review in both fields).
+- 📖 My free time (if I get any, that is) is spent on literature, catching up with the news and learning languages. I also like exploring history and culture.
 - 📫 Please feel free to reach out to me for anything, be it open-ended discussions, feedback or colloborations!
 
      [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fauzanfarooqui7@gmail.com)  &nbsp;
