@@ -1,5 +1,5 @@
 Hi, I’m Fauzan 👋
-- 🖥️ I am working on 5G systems at a Telecom R&D organization.
+- 🖥️ I am a Research Engineer working on 5G systems at India's Telecom R&D organization.
 - 🎓 I studied Computer Science and Engineering (CSE) at Visvesvaraya National Institute of Technology (VNIT), Nagpur, India. 
 - 🌱 During my time at VNIT, I was part of the AI & Robotics Lab, [IvLabs](https://www.ivlabs.in/), where I conducted research on **Natural Language Processing and Deep Learning**.
 - 📝 I have worked on Open Information Extraction and Knowledge Graphs (publications under-review in both fields).
